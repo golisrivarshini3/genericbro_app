@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-dotenv
+supabase
+pydantic
+typing-extensions
+python-multipart
+email-validator
+httpx
+starlette
